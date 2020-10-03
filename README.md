@@ -1,4 +1,4 @@
-## Available Scripts
+##
 
 [Demo](https://tinder-clone-7d1a3.firebaseapp.com/)
 
